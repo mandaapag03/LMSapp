@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LMSApp3</string>
+    <string name="txt_login">Faça seu Login:</string>
+    <string name="txt_usuario">Usuário:</string>
+    <string name="txt_hintUsuario">Informar o Nome do Usuário</string>
+    <string name="txt_password">Password:</string>
+    <string name="txt_hintPassword">Informar a Password do Usuário</string>
+    <string name="txt_btnLogin">LOGIN</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_config">Configurações</string>
+</resources>

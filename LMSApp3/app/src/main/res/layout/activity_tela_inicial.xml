@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/cam_pais"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textSize="20sp"
+        android:hint="Informe o Nome do País" />
+
+    <Button
+        android:id="@+id/btn_paises"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PAÍSES"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/cam_numero"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:textSize="20sp"
+        android:hint="Informar um Número."/>
+
+    <Button
+        android:id="@+id/btn_parametro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="PARÂMETRO" />
+
+    <Button
+        android:id="@+id/btn_resultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="RESULTADO" />
+
+    <Button
+        android:id="@+id/btn_menu_action_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="MENU ACTION BAR" />
+
+</LinearLayout>
